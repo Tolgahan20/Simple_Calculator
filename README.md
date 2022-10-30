@@ -7,7 +7,7 @@ This is a simple calculator program where you can perform basic operations.
 ## Instructions for installing the project
 
 1. Download the repository and open it with your IDE.
-2. Open `hm_main.py`
+2. Open `hm_main.py` and run it.
 3. Select the first number for the operations.
 4. Select the sign of the operation.
 5. Select the second number.
